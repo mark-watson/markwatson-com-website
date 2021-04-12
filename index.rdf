@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#"
+  xmlns:ow="http://www.ontoweb.org/ontology/1#">
+
+ <!-- Acknowledgement: this file is patterned after an RDF file by Jeen Broekstr -->
+
+
+  <rdf:Description rdf:about="http://www.markwatson.com/">
+    <dc:title>Mark Watson's Home Page</dc:title>
+    <dc:creator rdf:resource="#mark_watson"/>
+    <dc:description>
+      Mark Watson is the author of 16 published books and a consultant specializing in artificial intelligence and Java technologies.
+    </dc:description>
+    <dc:date>2005-7-10</dc:date>
+    <dc:format>text/html</dc:format>
+    <dc:type>Consultant Homepage</dc:type>
+    <dc:language>en-us</dc:language>
+  </rdf:Description>
+
+  <contact:Person rdf:ID="mark_watson">
+    <rdf:type rdf:resource="#Consultant"/>
+    <ow:researchTopic>ontologies</ow:researchTopic>
+    <ow:researchTopic>RDF and RDF Schema</ow:researchTopic>
+    <ow:researchTopic>Semantic Web</ow:researchTopic>
+    <contact:mailbox rdf:resource="mailto:markw@markwatson.com"/>
+    <contact:fullName>Mark Watson</contact:fullName>
+    <contact:familyName>Watson</contact:familyName>
+    <contact:firstName>Mark</contact:firstName>
+    <contact:homepage rdf:resource="http://www.markwatson.com/"/>
+    <contact:motherTongue>en</contact:motherTongue>
+    <contact:personalTitle>Mr.</contact:personalTitle>
+    <contact:company>Mark Watson Consulting Services</contact:company>
+    <rdf:value>Mark Watson</rdf:value>
+  </contact:Person>
+
+  <ow:Book rdf:ID="Sun_ONE">
+    <ow:title></ow:title>
+    <ow:author rdf:resource="#mark_watson"/>
+    <ow:booktitle>Sun ONE Services - J2EE</ow:booktitle>
+  </ow:Book>
+
+  <ow:Person rdf:about="#mark_watson">
+    <rdf:label>Mark Watson</rdf:label>
+    <ow:name>Mark Watson</ow:name>
+  </ow:Person>
+
+  <ow:Organization rdf:ID="mark_watson_consulting_services">
+    <rdf:label>Mark Watson Consulting Services</rdf:label>
+    <ow:name>Mark Watson Consulting Services</ow:name>
+  </ow:Organization>
+
+</rdf:RDF>
