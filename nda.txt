@@ -4,6 +4,8 @@ Date: ______________________________
 
 Between Mark Watson (a limited liability CONSULTANT) and the CUSTOMER: ____________________________________
 
+Hourly pay: $60/Hourly
+
 1.  Both the CONSULTANT and CUSTOMER agree that the CONSULTANT functions as a limited liability consultant: the CONSULTANT's legal liability for any customer project is limited to the amount of money paid to the CONSULTANT to perform work on the project.
 
 2. CONSULTANT agrees to hold CUSTOMER's proprietary information in strict confidence and will make all reasonable efforts to not disclose any proprietary information to any third party. Proprietary information includes any technical and business information that is not in the public domain or common knowledge. Both the CONSULTANT and CUSTOMER agree to take all reasonable precautions for safeguarding each others intellectual property. This paragraph has the following exception for projects developed under an open source software license: software developed will be released publicly, but, details of the CUSTOMER's business will remain confidential. CUSTOMER agrees to only furnish data, access to databases, and code with CONSULTANT that they have the rights and authorization to share with CONSULTANT.
