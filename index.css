@@ -559,12 +559,12 @@ img { max-width: 100%; }
   .contain-ns { background-size: contain!important; }
 }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 90em) {
   .cover-m { background-size: cover!important; }
   .contain-m { background-size: contain!important; }
 }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 90em) {
   .cover-l { background-size: cover!important; }
   .contain-l { background-size: contain!important; }
 }
