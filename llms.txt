@@ -1,0 +1,25 @@
+# Mark Watson: AI Practitioner and Author of 20+ AI Books on AI and has 55 US patents.
+
+Mark Watson is a Consultant Specializing in Large Language Models, LangChain/Llama-Index Integrations, Deep Learning, and the Semantic Web.
+
+## Mark Watson's Books
+
+Mark's books cover Artificial Intelligence, Python, Common Lisp, Deep Learning, Haskell, Clojure, Java, Ruby, Hy language, and the Semantic Web.
+
+Mark's recent books can be read for free online at href="https://leanpub.com/u/markwatson where they can also be purchased.
+
+## Mark Watson's Customer List
+
+Mark's customer list includes: Google, Capital One, Babylist, Olive AI, CompassLabs, Mind AI, Disney, SAIC, Americast, PacBell, CastTV, Lutris Technology, Arctan Group, Sitescout.com, Embed.ly, and Webmind Corporation.
+
+Mark has worked in the fields of general
+artificial intelligence, machine learning, semantic web and linked data, and
+natural language processing since 1982. I have used deep learning for multiple customers since 2015 and with LLMs since 2022.
+
+## Open Source Projects
+
+Mark Watson's Open Source projects are hosted at https://github.com/mark-watson and are written in a variety of languages: Python, Common Lisp, Haskell, Ruby, Racket, Clojure, JavaScript, Java, and Smalltalk.
+
+## Fun Stuff
+
+Mark Watson's hobbies are cooking, photography, hiking, travel, and playing the following musical instruments: guitar, didgeridoo, and American Indian flute.
