@@ -1,33 +1,69 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Mark Watson's MarkChat Support Page</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="I am the author of 20&#43; books on Artificial Intelligence, Python, Common Lisp, Deep Learning, Haskell, Clojure, Java, Ruby, Hy language, and the Semantic Web. I have 55 US Patents.">
-    <link href="/index.css" rel="stylesheet">
-    <meta property="og:title" content="Mark Watson: AI Practitioner and Lisp Hacker" />
-    <meta property="og:description" content="I am the author of 20&#43; books on Artificial Intelligence, Common Lisp, Deep Learning, Haskell, Clojure, Java, Ruby, Hy language, and the Semantic Web. I have 55 US Patents." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://markwatson.com/" />
-    <meta property="og:updated_time" content="2023-04-18T13:17:37-07:00" />
-    <meta itemprop="name" content="Mark Watson: AI Practitioner and Lisp Hacker">
-    <meta itemprop="description" content="I am the author of 20&#43; books on Artificial Intelligence, Common Lisp, Deep Learning, Haskell, Clojure, Java, Ruby, Hy language, and the Semantic Web. I have 55 US Patents.">
-    <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:title" content="Mark Watson: AI Practitioner and Lisp Hacker"/>
-    <meta name="twitter:description" content="I am the author of 20&#43; books on Artificial Intelligence, Common Lisp, Deep Learning, Haskell, Clojure, Java, Ruby, Hy language, and the Semantic Web. I have 55 US Patents."/>
-    <!-- Google tag (gtag.js) -->
-     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MJNL6DY9ZQ"></script>
-     <script>
-       window.dataLayer = window.dataLayer || [];
-       function gtag(){dataLayer.push(arguments);}
-       gtag('js', new Date());
-       gtag('config', 'G-MJNL6DY9ZQ');
-     </script>
-  </head>
-  <body>
-    <h1>Simple that is primarily for developers who want to experiment with the Apple Intelligence default system model using a chat interface.</h1>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarkChat: private and secure Chat With an AI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
 
-    <b>This app requires iOS26 to run!</b>
-  </body>
+    <div class="min-h-screen flex flex-col items-center justify-center p-4">
+        
+        <div class="w-full max-w-2xl mx-auto bg-white rounded-xl shadow-lg p-8 md:p-12">
+
+            <!-- Header Section -->
+            <div class="text-center mb-8">
+                <h1 class="text-3xl md:text-4xl font-bold text-gray-900">
+                    MarkChat: Private and Secure AI Chat
+                </h1>
+                <p class="text-gray-500 mt-2">A simple, local-first chat interface for developers.</p>
+            </div>
+
+            <!-- About Section -->
+            <div class="mb-8 p-6 bg-blue-50 border border-blue-200 rounded-lg">
+                <h2 class="text-xl font-semibold text-blue-800 mb-3">About the App</h2>
+                <p class="text-blue-700">
+                    Chat with a local AI model, ensuring your conversations are always private and secure. This simple app is primarily for developers who want to experiment with a local AI model using a chat interface.
+                </p>
+            </div>
+            
+            <!-- Requirements Section -->
+            <div class="mb-8 p-6 bg-yellow-50 border border-yellow-200 rounded-lg">
+                <h2 class="text-xl font-semibold text-yellow-800 mb-3">System Requirements</h2>
+                <p class="text-yellow-700">
+                    This application requires <span class="font-semibold">Apple Intelligence</span> and the <span class="font-semibold">System Language Model</span> to be installed and enabled on your device to function correctly.
+                </p>
+            </div>
+
+            <!-- Customer Support Section -->
+            <div class="text-center mt-10">
+                <h2 class="text-2xl font-semibold text-gray-800 mb-3">Need Assistance?</h2>
+                <p class="text-gray-600 mb-4">
+                    For customer support, questions, or feedback, please don't hesitate to reach out.
+                </p>
+                <div class="inline-block bg-gray-100 rounded-lg p-4 border border-gray-200">
+                    <span class="text-gray-500">Email us at:</span>
+                    <a href="mailto:mark.watson@gmail.com" class="font-semibold text-indigo-600 hover:text-indigo-500 transition-colors">
+                        mark.watson@gmail.com
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Footer -->
+        <footer class="text-center mt-8 text-gray-400 text-sm">
+            <p>&copy; 2024 MarkChat. All Rights Reserved.</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
