@@ -51,8 +51,10 @@
     <section id="paypal" style="text-align: center;">
       <h2>Support me on PayPal</h2>
       <div id="paypal-container-LKZJYX46P4G36"></div>
-      <script 
-        src="https://www.paypal.com/sdk/js?client-id=BAAc9bpJ07hD6r2VucPTWh8JuZHwbGaRXEIV-2uTi6udTgYZHclYBmqImZ7pYttk6cQRuWPi0D7sOXpCnQ&components=hosted-buttons&enable-funding=venmo&currency=USD">
+      <script>
+        paypal.HostedButtons({
+            hostedButtonId: "LKZJYX46P4G36",
+        }).render("#paypal-container-LKZJYX46P4G36")
       </script>
     </section>
 
