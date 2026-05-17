@@ -1,25 +1,31 @@
-# Mark Watson: AI Practitioner and Author of 20+ AI Books on AI and has 55 US patents.
+# Mark Watson — AI Researcher, Author & Mentor
 
-Mark Watson is a Consultant Specializing in Large Language Models, LangChain/Llama-Index Integrations, Deep Learning, and the Semantic Web.
+> Semi-retired independent AI researcher with 40+ years of experience, 20+ published books, and 55 US patents.
 
-## Mark Watson's Books
+## About
 
-Mark's books cover Artificial Intelligence, Python, Common Lisp, Deep Learning, Haskell, Clojure, Java, Ruby, Hy language, and the Semantic Web.
+Mark Watson has worked in artificial intelligence, machine learning, semantic web, linked data, and natural language processing since 1982. He has used deep learning for multiple customers since 2015 and with LLMs since 2022.
 
-Mark's recent books can be read for free online at href="https://leanpub.com/u/markwatson where they can also be purchased.
+## Free Mentoring
 
-## Mark Watson's Customer List
+Mark offers free mentoring: career advice, technology discussions, project design guidance, and more. 30 minutes on Zoom or 45 minutes via email. Contact: mark.watson@gmail.com
 
-Mark's customer list includes: Google, Capital One, Babylist, Olive AI, CompassLabs, Mind AI, Disney, SAIC, Americast, PacBell, CastTV, Lutris Technology, Arctan Group, Sitescout.com, Embed.ly, and Webmind Corporation.
+## Books
 
-Mark has worked in the fields of general
-artificial intelligence, machine learning, semantic web and linked data, and
-natural language processing since 1982. I have used deep learning for multiple customers since 2015 and with LLMs since 2022.
+Mark's books cover AI, Python, Common Lisp, Deep Learning, Haskell, Clojure, Java, Ruby, Racket, TypeScript, and the Semantic Web. Recent books can be read for free online at https://leanpub.com/u/markwatson
 
-## Open Source Projects
+## Consulting
 
-Mark Watson's Open Source projects are hosted at https://github.com/mark-watson and are written in a variety of languages: Python, Common Lisp, Haskell, Ruby, Racket, Clojure, JavaScript, Java, and Smalltalk.
+Mark selectively takes on small consulting projects involving LLMs, knowledge graphs, and AI integration. Contact: mark.watson@gmail.com
 
-## Fun Stuff
+## Customer List
 
-Mark Watson's hobbies are cooking, photography, hiking, travel, and playing the following musical instruments: guitar, didgeridoo, and American Indian flute.
+Google, Capital One, Babylist, Olive AI, CompassLabs, Mind AI, Disney, SAIC, Americast, PacBell, CastTV, Lutris Technology, Arctan Group, Sitescout.com, Embed.ly, and Webmind Corporation.
+
+## Open Source
+
+Projects hosted at https://github.com/mark-watson — written in Python, Common Lisp, Racket, Haskell, Clojure, TypeScript, Swift, Java, Ruby, and more.
+
+## Interests
+
+Cooking, photography, hiking in Arizona, and playing guitar, didgeridoo, and American Indian flute.
