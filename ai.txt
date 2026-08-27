@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Usage-policy: training
-Data-types: text, images, metadata
-License: CC BY-SA 4.0
